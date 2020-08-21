@@ -1,0 +1,15 @@
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\CodeGenerator.exe
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\CodeGenerator.deps.json
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\CodeGenerator.runtimeconfig.json
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\CodeGenerator.runtimeconfig.dev.json
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\CodeGenerator.dll
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\CodeGenerator.pdb
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.csprojAssemblyReference.cache
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.AssemblyInfo.cs
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.dll
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.pdb
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.genruntimeconfig.cache
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\bin\Debug\netcoreapp3.1\FileHelpers.dll
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Mark Scott\source\repos\CodeGenerator\CodeGenerator\obj\Debug\netcoreapp3.1\CodeGenerator.csproj.CopyComplete
